@@ -18,8 +18,8 @@ export const LightTheme = createTheme({
         },
 
         background: {
-            default: '#f7f6f3',
-            paper: '#ffffff',
+            default: '#ffffff',
+            paper: '#e1e1e1',
         }
     }
 });
